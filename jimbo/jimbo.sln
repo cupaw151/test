@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jimbo", "jimbo\jimbo.vcproj", "{E50BDF97-07D8-4BE9-AF91-FA37632B0096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E50BDF97-07D8-4BE9-AF91-FA37632B0096}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E50BDF97-07D8-4BE9-AF91-FA37632B0096}.Debug|Win32.Build.0 = Debug|Win32
+		{E50BDF97-07D8-4BE9-AF91-FA37632B0096}.Release|Win32.ActiveCfg = Release|Win32
+		{E50BDF97-07D8-4BE9-AF91-FA37632B0096}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
